@@ -1,0 +1,14 @@
+courseid,title,deptname,credits
+BIO101,Intro._to_Biology,Biology,4
+BIO301,Genetics,Biology,4
+BIO399,Computational_Biology,Biology,3
+CS101,Intro._to_Computer Science,Computer,4
+CS190,Game_Design,Computer,4
+CS315,Robotics,Computer,3
+CS319,Image_Processing,Computer,3
+CS347,Database_System Concepts,Computer,3
+EE181,Intro._to_Digital Systems,Electrical,3
+FIN201,Investment_Banking,Finance,3
+HIS351,World_History,History,3
+MU199,Music_Video_Production,Music,3
+PHY101,Physical_Principles_Biology,Physics,4
