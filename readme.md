@@ -46,7 +46,7 @@ output: pdf_document
 **Steps to run calculator**
 
       1. open the terminal
-      2. change the directory to Project-2
+      2. change the directory to Relational-Algebra-Calculator
       3. g++ -std=c++11 nested_query.cpp -o output.out
       4. ./output.out
 
